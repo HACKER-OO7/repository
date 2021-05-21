@@ -8,3 +8,5 @@ Hacking
 AI
 ML
 Android development
+
+thank you :)
