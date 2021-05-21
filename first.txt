@@ -6,7 +6,7 @@ Programming
 Web developing
 Hacking
 AI
-ML
+
 Android development
 
 thank you :)
