@@ -7,3 +7,4 @@ Web developing
 Hacking
 AI
 ML
+Android development
